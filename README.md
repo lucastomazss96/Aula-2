@@ -1,4 +1,4 @@
-# Econometria Avançada - Aula 2
+# Econometria Avançada - Aula 2 - Séries Temporais
 * Arquivos e códigos feitos pelo professor;
 * Resultados dos códigos;
 * Slides da aula;
